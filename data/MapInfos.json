@@ -1,9 +1,14 @@
 [
 null,
-{"id":1,"expanded":false,"name":"home_outside","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":2,"expanded":true,"name":"outside_school","order":2,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":3,"expanded":false,"name":"outside_school_desert","order":3,"parentId":2,"scrollX":819,"scrollY":461},
-{"id":4,"expanded":true,"name":"boulderpass","order":4,"parentId":2,"scrollX":819,"scrollY":461},
-{"id":5,"expanded":true,"name":"VorteBat","order":5,"parentId":4,"scrollX":1259,"scrollY":638},
-{"id":6,"expanded":false,"name":"debug room","order":6,"parentId":5,"scrollX":832,"scrollY":640}
+{"id":1,"expanded":true,"name":"home_outside","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"outside_school","order":7,"parentId":9,"scrollX":655.2,"scrollY":368.8},
+{"id":3,"expanded":false,"name":"home_inside","order":3,"parentId":1,"scrollX":655.2,"scrollY":368.8},
+{"id":4,"expanded":true,"name":"boulderpass","order":8,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":true,"name":"VorteBat","order":9,"parentId":4,"scrollX":1584,"scrollY":832},
+{"id":6,"expanded":false,"name":"debug room","order":1,"parentId":0,"scrollX":655.2,"scrollY":368.8},
+{"id":7,"expanded":true,"name":"forest trail","order":10,"parentId":0,"scrollX":655.2,"scrollY":368.8},
+{"id":8,"expanded":true,"name":"forest hole ","order":11,"parentId":7,"scrollX":2432,"scrollY":1384},
+{"id":9,"expanded":false,"name":"FARO town","order":4,"parentId":0,"scrollX":648.8,"scrollY":784},
+{"id":10,"expanded":false,"name":"atowninn","order":5,"parentId":9,"scrollX":655.2,"scrollY":368.8},
+{"id":11,"expanded":false,"name":"store","order":6,"parentId":10,"scrollX":655.2,"scrollY":368.8}
 ]
